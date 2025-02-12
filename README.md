@@ -1,1 +1,1 @@
-# youtubeclone
+The **YouTube Clone** website, built using **HTML and CSS**, replicates YouTube's basic layout and design. It includes a **video gallery, navigation bar, search bar, and responsive video player sections**. The website is **fully responsive**, ensuring a seamless viewing experience across different devices.
